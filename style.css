@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #d4b5b0;
+  font-size: 1.5rem;
+  font-family: system-ui;
+}
+
+#wrapper {
+  background: #f69e7b;
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30vh;
+  padding: 3rem;
+}
+
+input {
+  font-size: 2rem;
+  margin: 1rem;
+  border: none;
+}
+
+h3 {
+  margin-bottom: 1rem;
+  font-size: 4rem;
+}
+
+input[type="submit"] {
+  padding: 1rem;
+  border-radius: 50px;
+}
